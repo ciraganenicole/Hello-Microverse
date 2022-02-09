@@ -16,24 +16,15 @@ Hello Microverse project initiate student on how to use linters, Git/Github and 
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
 
 ### Setup
   create .github/workflows folder in your first commit for the feature branch then add a copy of .github/workflows/linters.yml to the created folder
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Ciragane Nicole**
 
 - GitHub: [@githubhandle](https://github.com/ciraganenicole)
 - Twitter: [@twitterhandle](https://twitter.com/CiraganeN)
